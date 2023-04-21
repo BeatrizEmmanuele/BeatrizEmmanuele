@@ -1,7 +1,7 @@
 ## Olá, me chamo Beatriz Emmanuele :)
 
-- 💟 Trabalhando como FrontEnd
-- 🤓 Estudando JavaScript e React
+- 🤖 Sou estudante de Ciência da Computação, na UNIPÊ e estou no 3º período.
+- ⭐ Sou FrontEnd.
 
 ##
 
