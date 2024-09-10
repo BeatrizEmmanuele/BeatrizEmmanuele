@@ -1,6 +1,6 @@
 ## Olá, me chamo Beatriz Emmanuele :)
 
-- 🤖 Sou estudante de Ciência da Computação, na UNIPÊ e estou no 5º período.
+- 🤖 Sou estudante de Ciência da Computação, na UNIPÊ e estou no 6º período.
 - ⭐ Sou FrontEnd.
 
 ##
